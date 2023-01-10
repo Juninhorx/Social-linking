@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Social-links é um agregador de links para usar como cartão de visitas online.
+O Social-linking é um agregador de links para usar como cartão de visitas online.
 
 ## :memo: Licença
 
